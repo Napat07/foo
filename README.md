@@ -1,3 +1,3 @@
-#Hello wolrd
+# Hello wolrd
 
-##Gamer
+## Gamer
