@@ -1,4 +1,2 @@
-test
-"# homework" 
-"# homework" 
-"# foo" 
+homework
+homework
