@@ -55,4 +55,5 @@
 16 </body> 
 17 </html>
  ```
+แสดงผลลัพธ์ [Click Here](http://www.mwit.ac.th/~jeab/40201/example/ex2.php)
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
