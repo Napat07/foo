@@ -1,9 +1,12 @@
-# Hello
+﻿# What is Readme.md ?
 
-## see you tomorrow
+ปกติเวลาเปิดเข้าไฟล์หรือโฟรเดอร์ของโปรแกรม ที่โหลดมาจากอินเทอร์เน็ต 
+ส่วนมากจะมีไฟล์ชื่อ Readme.md ติดมาด้วย และนอกจากนั่นเราอาจจะพบเจอในพวก 
+Lirbraly Open source เวลาที่ต้องโหลดมาเพื่อเขียน สำหรับหน้าตาของ Read.md 
+ก็จะเป็นแบบนี้
 
-Col1  | Col2  |  Col3 | Col4
------ | ----- | ----- | ----- |
-Test1 | Test1 | Test1 | Test1 |
-Test2 | Test2 | Test2 | Test2 |
-Test3 | Test3 | Test3 | Test3 |
+Synopsis  | 
+--------- |
+At the top of the file there should be a short introduction and/ or overview that explains 
+what the project is. This description should match descriptions added for package managers 
+(Gemspec, package.json, etc.) |
