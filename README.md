@@ -1,22 +1,6 @@
-﻿# What is Readme.md ?
+﻿# ภาษา PHP
 
-ปกติเวลาเปิดเข้าไฟล์หรือโฟรเดอร์ของโปรแกรม ที่โหลดมาจากอินเทอร์เน็ต 
-ส่วนมากจะมีไฟล์ชื่อ Readme.md ติดมาด้วย และนอกจากนั่นเราอาจจะพบเจอในพวก 
-Lirbraly Open source เวลาที่ต้องโหลดมาเพื่อเขียน สำหรับหน้าตาของ Read.md 
-ก็จะเป็นแบบนี้
+ในบทเรียนนี้ คุณจะได้เรียนภาษา PHP ในพื้นฐาน เช่น โครงสร้างของภาษา ตัวแปร ตัวดำเนินการ คำสั่งควบคุม อาเรย์ ฟังก์ชัน และการเขียนโปรแกรมภาษา PHP แบบออบเจ็ค คุณจะเข้าใจเกี่ยวกับการสร้างคลาสและออบเจ็ค สำหรับการสอนในบทเรียนนี้จะเป็นแบบ Console และไม่ได้ครอบคลุมถึงการพัฒนาเว็บไซต์ ต่อไปมาทำความรู้จักกับภาษา PHP ก่อนที่คุณจะเริ่มต้นการเขียนโปรแกรม
 
-Synopsis  | 
---------- |
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.) |
---------- |
+PHP คือภาษาสำหรับทำงานด้านฝั่งของเซิร์ฟเวอร์ (server-side scripting) ถูกออกแบบมาสำหรับการพัฒนาเว็บไซต์ แต่มันก็ยังสามารถใช้เขียนโปรแกรมเพื่อวัตถุประสงค์ทั่วไปได้ PHP ถูกสร้างโดย Rasmus Lerdorf ในปี 1994 โดยที่ PHP ในปัจจุบันได้ถูกพัฒนาโดยทีมพัฒนาของภาษา PHP ซึ่งคำว่า PHP นั้นย่อมาจาก Personal Home Page ซึ่งในปัจจุบันนั้นหมายถึง PHP: Hypertext Preprocessor
 
-- [ ] Apple
-- [ ] Tree
-- [ ] Lemon
-- [ ] Cup
-
-> My name is Jonh Doe
-> I'm reading readme.md tutorial
-
-> My name is Jonh Doe
-> I'm reading readme.md tutorial
