@@ -10,4 +10,4 @@
 
 
 
-[อ้างอิง](http://marcuscode.com/lang/php)
+ขอขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
