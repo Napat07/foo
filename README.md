@@ -29,7 +29,7 @@
    echo"Hi, I'm a PHP script!"; 
 ?> 
 </body> 
-</html> ```
+</html> javascript ```
 
 
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
