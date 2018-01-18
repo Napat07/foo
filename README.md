@@ -21,16 +21,16 @@
 
 
 ```javascript 
-<html> 
-<head> 
-<title>Example 1 </title> 
-</head> 
-<body>
-<? 
-   echo"Hi, I'm a PHP script!"; 
-?> 
-</body> 
-</html> ```
+1 <html> 
+2 <head> 
+3 <title>Example 1 </title> 
+4 </head> 
+5 <body>
+6 <? 
+7   echo"Hi, I'm a PHP script!"; 
+8 ?> 
+9 </body> 
+10 </html> ```
 
 
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
