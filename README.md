@@ -20,6 +20,10 @@
 ภาษา PHP มีลักษณะเป็น embedded script หมายความว่าเราสามารถฝังคำสั่ง PHP ไว้ในเว็บเพจร่วมกับคำสั่ง(Tag) ของ HTML ได้ และสร้างไฟล์ที่มีนามสกุลเป็น .php, .php3 หรือ .php4 ซึ่งไวยากรณ์ที่ใช้ใน PHP เป็นการนำรูปแบบของภาษาต่างๆ มารวมกันได้แก่ C, Perl และ Java ทำให้ผู้ใช้ที่มีพื้นฐานของภาษาเหล่านี้อยู่แล้วสามารถศึกษา และใช้งานภาษานี้ได้ไม่ยาก
 
 ```javascript 
+function helloWorld () { 
+console.log('Hello, World!'); 
+} ```
+
 <html> 
 <head> 
 <title>Example 1 </title> 
@@ -29,7 +33,7 @@
    echo"Hi, I'm a PHP script!"; 
 ?> 
 </body> 
-</html> javascript ```
+</html>
 
 
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
