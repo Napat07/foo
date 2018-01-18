@@ -30,7 +30,7 @@
 7   echo"Hi, I'm a PHP script!"; 
 8 ?> 
 9 </body> 
-10 </html> ```javascript 
+10 </html> ```
 
 
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
