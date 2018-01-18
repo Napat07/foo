@@ -30,6 +30,7 @@ Rasmus Lerdorf นั้นไม่ได้ตั้งใจให้ PHP ม
    echo"Hi, I'm a PHP script!"; 
 ?> 
 </body> 
-</html>
-} ``
+</html> ```
+
+
 ขอขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
