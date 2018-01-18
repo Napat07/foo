@@ -32,6 +32,27 @@
 9 </body> 
 10 </html>
  ```
+ จากตัวอย่าง บรรทัดที่ 6 - 8 เป็นส่วนของสคริปต์ PHP ซึ่งเริ่มต้นด้วย <? ตามด้วยคำสั่งที่เรียกฟังก์ชั่นหรือข้อความ และปิดท้ายด้วย ?> สำหรับตัวอย่างนี้เป็นสคริปต์ที่แสดงข้อความว่า "Hi, I'm a PHP script" โดยใช้คำสั่ง echo ซึ่งเป็นคำสั่งที่ใช้ในการแสดงผลของภาษาสคริปต์ PHP ซึ่งจะแสดงผลดังนี้ [Click Here](http://www.mwit.ac.th/~jeab/40201/example/ex1.php)
 
+ เราสามารถฝังคำสั่ง PHP ไว้ในเว็บเพจหนึ่งๆ โดยเปิดและปิดด้วยแท็ก(Tag) ของ PHP กี่ครั้งก็ได้ ดังตัวอย่างต่อไปนี้
+```javascript 
 
+1 <html> 
+2 <head> 
+3 <title>Example 1 </title>
+4 </head> 
+5 <body>
+6 <table border=1>
+7 <tr>
+8 <td><? echo"PHP script block 1"; ?></td>
+9 <td><? echo"PHP script block 2 "; ?></td>
+10 </tr>
+11 </table>
+12 <? 
+13    echo"PHP script block 3 <br> ";
+14    echo date("ขณะนี้เวลา H:i น."); 
+15 ?> 
+16 </body> 
+17 </html>
+ ```
 > ขอบคุณสำหรับที่มา [ภาษา PHP](http://marcuscode.com/lang/php)
